@@ -33,12 +33,6 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-## 📊 GitHub Stats
-
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?usernamehartzc=&layout=compact&theme=tokyonight" />
-</p>
-
 ---
 
 ⭐ If you like my work, consider starring a repository  

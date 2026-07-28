@@ -15,14 +15,6 @@
     <img src="https://img.shields.io/badge/Instagram-@medeir6s-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
-
----
-
-## 🧠 What I do
-
--   🌐 Build simple and responsive websites  
-- 📱 Create layouts that adapt to different devices
--   🎓 Keep learning front‑end and exploring back‑end 
 ---
 
 ## 🛠️ Tech Stack

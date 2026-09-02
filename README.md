@@ -7,12 +7,13 @@ My name is Caio and I'm a Software Engineer.
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![python](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)
 
-Are you interested in collaboration? I'm up to any inspiring projects.  
-Get in touch with me through the attached links:  
 
 <a href="https://www.linkedin.com/in/hartzr/">
   <img alt="Caio's Linkedin" src="https://img.shields.io/badge/-LinkedIn-1A4730?style=flat-square&logo=Linkedin&logoColor=white" />
 </a>
-<a href="caio.contact13@gmail.com">
+<a href="mailto:caio.contact13@gmail.com">
   <img alt="Caio's Email" src="https://img.shields.io/badge/-E--mail-1A4730?style=flat-square&logo=Gmail&logoColor=white" />
 </a>
+
+⭐ If you like my work, consider starring a repository  
+🤝 Always open to collaborations, partnerships, and cool ideas

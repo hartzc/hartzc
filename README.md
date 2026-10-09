@@ -7,7 +7,6 @@ My name is Caio and I'm a Software Engineer.
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 #### Data:
-
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![python](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
@@ -17,7 +16,7 @@ My name is Caio and I'm a Software Engineer.
 <a href="https://www.linkedin.com/in/hartzr/">
   <img alt="Caio's Linkedin" src="https://img.shields.io/badge/-LinkedIn-1A4730?style=flat-square&logo=Linkedin&logoColor=white" />
 </a>
-<a href="mailto:caio.contact13@gmail.com">
+<a href="mailto:caio.mm151@gmail.com">
   <img alt="Caio's Email" src="https://img.shields.io/badge/-E--mail-1A4730?style=flat-square&logo=Gmail&logoColor=white" />
 </a>
 
